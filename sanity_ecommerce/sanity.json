@@ -2,7 +2,7 @@
   "root": true,
   "api": {
     "projectId": "j3jyfy4c",
-    "dataset": "ecommerce"
+    "dataset": "production"
   },
   "project": {
     "name": "ecommerce"
