@@ -1,6 +1,6 @@
 # ecommerce
 
-> Ecommerce is a next.js frontend application with Sanity.io backend. It allows users to buy choose products, add them to a cart, pay for them via Stripe and have them chipped to them.
+> Ecommerce is a next.js frontend application with Sanity.io backend. It allows users to choose products, add them to a cart, pay for them via Stripe and have them chipped to them.
 
 ## Built With
 
