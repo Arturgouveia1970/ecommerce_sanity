@@ -1,4 +1,19 @@
-[video demonstration](https://www.loom.com/share/2336c6b5738d4aaca30c161d02716000?sid=ecc9c8e3-6bb7-4dc6-84fb-32c1d3249887)
+# ecommerce
+
+> Ecommerce is a next.js frontend application with Sanity.io backend. It allows users to buy choose products, add them to a cart, pay for them via Stripe and have them chipped to them.
+
+## Built With
+
+- Major languages (javaScript, Css)
+- Frameworks (React, Next)
+
+## Video demonstration
+
+[Loom](https://www.loom.com/share/2336c6b5738d4aaca30c161d02716000?sid=ecc9c8e3-6bb7-4dc6-84fb-32c1d3249887)
+
+## Live version
+
+[Vercel](https://ecommerce-sanity-mocha.app)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
