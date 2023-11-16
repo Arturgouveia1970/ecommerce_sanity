@@ -5,7 +5,7 @@
 ## Built With
 
 - Major languages (javaScript, Css)
-- Frameworks (React, Next)
+- Frameworks (Next)
 
 ## Video demonstration
 
