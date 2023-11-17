@@ -1,4 +1,4 @@
-[animation]("C:\Users\Artur Gouveia\Downloads\ecommerce-video (1).gif")
+![animation]("C:\Users\Artur Gouveia\Downloads\ecommerce-video (1).gif")
 
 # ecommerce
 
