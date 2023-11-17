@@ -1,3 +1,5 @@
+[animation]("C:\Users\Artur Gouveia\Downloads\ecommerce-video (1).gif")
+
 # ecommerce
 
 > Ecommerce is a next.js frontend application with Sanity.io backend. It allows users to choose products, add them to a cart, pay for them via Stripe and have them chipped to them.
