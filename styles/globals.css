@@ -142,7 +142,7 @@ width: 100%;
   font-size: 20px;
 }
 .hero-banner-container button{
-   border-radius: 15px;
+  border-radius: 15px;
   padding: 10px 16px;
   background-color: #f02d34;
   color: white;
@@ -266,7 +266,8 @@ text-align: end;
   font-weight: 300;
 }
 .shop-btn {
-  
+  border: 1px solid red;
+  color: black;
 }
 .cart-wrapper{
   width: 100vw;
